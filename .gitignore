@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# ROS
+*.bag
+*.bag.active
+
+# IDEs & OS
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
